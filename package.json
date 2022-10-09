@@ -1,6 +1,6 @@
 {
   "name": "nephw-sdk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Ethers.js extension built for interacting with the NEPHW protocol.",
   "main": "dist/node/index.js",
   "module": "dist/node/index.js",
@@ -42,12 +42,8 @@
   },
   "dependencies": {
     "ethers": "^5.7.0",
-    "file-api": "^0.10.4",
-    "ipfs-car": "^0.9.1",
-    "ipfs-cid": "^0.1.0",
-    "json-stream-stringify": "^3.0.1",
     "memfs": "^3.4.7",
-    "uuid": "^9.0.0",
+    "uuid-generator-ts": "^1.1.0",
     "web3.storage": "^4.4.0"
   }
 }

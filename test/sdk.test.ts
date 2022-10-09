@@ -14,6 +14,7 @@ describe('NEPHW SDK', function () {
       "0x4Ed918C7800F5dc34d2C774f6EA5fbd15f1a94a7",
       100000
     );
+    
     const transaction2 = await ERC20Contract.populateTransaction.transfer(
       "0x4Ed918C7800F5dc34d2C774f6EA5fbd15f1a94a7",
       200000
