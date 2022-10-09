@@ -1,6 +1,6 @@
 {
   "name": "nephw-sdk",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Ethers.js extension built for interacting with the NEPHW protocol.",
   "main": "dist/node/index.js",
   "module": "dist/node/index.js",
